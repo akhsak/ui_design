@@ -190,11 +190,3 @@ class HomePage extends StatelessWidget {
 
 
 
-// Map<int,String>  a={
-//   10:'name',
-
-
-// };
-// {
-// 10:'akhsa';
-// }
